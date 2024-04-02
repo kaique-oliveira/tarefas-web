@@ -7,7 +7,7 @@ Tarefas
   <br>
 </h1>
 
-<h4 align="center">Um aplicativo de organização de tarefas utilizando <a href="https://pt-br.react.dev/blog/2023/03/16/introducing-react-dev" target="_blank">React JS</a> e <a href="https://www.electronjs.org" target="_blank">Electron JS</a>.</h4>
+<h4 align="center">Um aplicativo para organizar as tarefas utilizando <a href="https://pt-br.react.dev/blog/2023/03/16/introducing-react-dev" target="_blank">React JS</a> e <a href="https://www.electronjs.org" target="_blank">Electron JS</a>.</h4>
 
 
 
