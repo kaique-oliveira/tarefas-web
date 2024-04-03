@@ -189,8 +189,8 @@ export const Home = () => {
           ) : (
             <WrapperEmpty>
               <NoteBlank size={56} weight="regular" />
-              <span>Sem tarefas cadastradas</span>
-              <p>Crie tarefas e organize seus itens a fazer</p>
+              <span>Sem tarefas para essa data.</span>
+              <p>Crie tarefas e organize seus itens a fazer!</p>
             </WrapperEmpty>
           )}
         </ListTask>

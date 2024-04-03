@@ -21,7 +21,7 @@ Tarefas
 
 <p>Clique na imagem para visualizar no figma.</p>
 
-  [<img src="public/assets/cover-figma.png" width="100%">](https://www.figma.com/file/pf0dNRmKaBnkNQoKFbZpkz/portif%C3%B3lio?type=design&node-id=0%3A1&mode=design&t=GS4wXvXttCvAZyaj-1 "Visualizar no figma")
+  [<img src="public/assets/cover-figma.png" width="100%">](https://www.figma.com/file/vQn11NAmOzq4AMtQJvklgJ/Tarefas?type=design&node-id=1%3A717&mode=design&t=QjjMl6p7gP6IGM2W-1 "Visualizar no figma")
 
 
 
